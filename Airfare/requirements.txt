@@ -4,3 +4,4 @@ pandas==1.5.2
 st_pages==0.4.1
 streamlit==1.23.1
 scikit-learn==1.0.2
+xgboost==1.7.5
